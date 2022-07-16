@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_dbsg2_cs6138217t.test_script</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>test_script</name>
+        <script><![CDATA[var test_script = Class.create();
+test_script.prototype = {
+    initialize: function() {
+    },
+
+    type: 'test_script'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>kokilaa.janakiraman@snc</sys_created_by>
+        <sys_created_on>2022-07-16 09:48:20</sys_created_on>
+        <sys_id>d832231c1bf4d950990397939b4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_script</sys_name>
+        <sys_package display_value="CS6138217test" source="x_dbsg2_cs6138217t">1146cf4c1b7c5950990397939b4bcb51</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="CS6138217test">1146cf4c1b7c5950990397939b4bcb51</sys_scope>
+        <sys_update_name>sys_script_include_d832231c1bf4d950990397939b4bcb0f</sys_update_name>
+        <sys_updated_by>kokilaa.janakiraman@snc</sys_updated_by>
+        <sys_updated_on>2022-07-16 09:48:20</sys_updated_on>
+    </sys_script_include>
+</record_update>
