@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="test2" max_length="40" name="x_dbsg2_cs6138217t_test2" type="collection"/>
+    <element label="test2" max_length="40" name="x_dbsg2_cs6138217t_test2" type="collection">
+        <element label="dummy field" max_length="40" name="u_dummy_field" type="string"/>
+    </element>
 </database>
